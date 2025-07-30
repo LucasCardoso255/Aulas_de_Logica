@@ -1,4 +1,5 @@
 //Contador de vogais em uma String em java
+package java;
 
 public class Vogais {
     static void contarVogais(String palavra){

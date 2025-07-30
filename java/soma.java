@@ -1,5 +1,5 @@
 //Somador de todos os pares de uma lista em java
-
+package java;
 public class soma{
     static int getSomaPares(int lista[]){
         int lista_temporaria[] = new int[lista.length];
