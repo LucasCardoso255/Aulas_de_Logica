@@ -11,6 +11,6 @@ id,nome,idade,cidade,salario,data_cadastro,status
 10,Gustavo Souza,38,Rio de Janeiro,8800.10,2023-12-18,Inativo
 11,N/A,33,São Paulo,6000,2022-08-08,Ativo
 12,Bruno Ferreira,22,Belo Horizonte,3900.50,2024-01-20,Ativo
-13,Camila Rocha,27,N/A,5300,2023-10-05,Ativo
+N/A,Camila Rocha,27,N/A,5300,2023-10-05,Ativo
 14,Daniel Pinto,30,São Paulo,7000,,Ativo
 15,Isabela Gomes,N/A,Rio de Janeiro,6500,2022-06-14,Ativo
