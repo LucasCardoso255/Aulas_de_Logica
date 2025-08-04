@@ -1,5 +1,5 @@
 #não muda quase nada de uma leitura json para uma leitura csv
-#dito isso, não explicar tudo que está sendo feito, pois é mais do mesmo.
+#dito isso, não vou explicar tudo que está sendo feito, pois é mais do mesmo.
 
 import pandas as pd
 
