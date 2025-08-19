@@ -1,0 +1,16 @@
+id,nome,idade,cidade,salario,data_cadastro,status
+1,Ana Silva,28,São Paulo,5500.50,2023-01-15,Ativo
+2,Carlos Oliveira,35,Rio de Janeiro,8200.75,2022-05-20,Ativo
+3,Mariana Costa,N/A,Belo Horizonte,4800,2024-02-10,Inativo
+4,Pedro Santos,,São Paulo,6100.25,2023-07-03,Ativo
+5,Julia Almeida,42,Porto Alegre,7500,2021-11-28,Ativo
+6,Fernando Martins,29,Curitiba,,2024-04-01,Ativo
+7,Patricia Lima,31,São Paulo,7200.90,2023-09-12,Ativo
+8,Roberto Mendes,50,Brasília,9500,2022-03-05,Ativo
+9,Larissa Pires,25,N/A,4500,2024-06-25,Ativo
+10,Gustavo Souza,38,Rio de Janeiro,8800.10,2023-12-18,Inativo
+11,N/A,33,São Paulo,6000,2022-08-08,Ativo
+12,Bruno Ferreira,22,Belo Horizonte,3900.50,2024-01-20,Ativo
+N/A,Camila Rocha,27,N/A,5300,2023-10-05,Ativo
+14,Daniel Pinto,30,São Paulo,7000,,Ativo
+15,Isabela Gomes,N/A,Rio de Janeiro,6500,2022-06-14,Ativo
