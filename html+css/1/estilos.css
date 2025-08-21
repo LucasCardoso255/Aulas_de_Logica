@@ -1,0 +1,13 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+}
+    h1:hover{color:cadetblue;}/*
+    -h1 é o elemento que vou mudar
+    -hover é a propriedade que vou passar para esse elemento
+    -color é o valor que vou passar para esse elemento
+    */
+    p:hover {color: grey;}
+    #eu_tenho_id{color: black;}/*nesse caso, troquei apenas a cor do elemento com esse id*/
+
+
+
