@@ -7,7 +7,17 @@ body{
     -color é o valor que vou passar para esse elemento
     */
     p:hover {color: grey;}
-    #eu_tenho_id{color: black;}/*nesse caso, troquei apenas a cor do elemento com esse id*/
+    #eu_tenho_id{color: black;}/*nesse caso, troquei a cor do elemento que tem apenas esse id*/
+    
+    #li1 {
+        color: yellow;font-weight: bold;
+    }
+    #li2 {
+        color: crimson;font-weight: bold;
+    }
+    #li3 {
+        color: darkorchid;font-weight: bold;
+    }
 
 
 
