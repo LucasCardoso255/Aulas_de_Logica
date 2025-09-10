@@ -1,0 +1,71 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#sidebar{
+    position: absolute;
+    z-index: 10;
+    width: 200px;
+    height: 100px;
+    display: none;
+}
+
+#botao-menu:active ~ #sidebar{
+    display: flex;
+    justify-content: center;
+    align-items: left;
+}
+
+.secao-logo{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+#br{
+    color: gray;
+    font-size: 10px;
+    height: 35px;
+}
+
+#botao-menu{
+    font-size: 15px;
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    border: solid white;
+    border-radius: 80px;
+}
+
+#botao-menu:hover{
+    background-color: rgb(233, 233, 233);
+}
+
+.caixa{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+
+}
+
+
+/*
+
+.menu{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 51px;
+    width: 300px;
+    height: 500px;
+}
+
+.icones-menu{
+    height: 20px;
+    width: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+*/
