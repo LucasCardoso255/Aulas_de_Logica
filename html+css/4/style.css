@@ -14,6 +14,11 @@ font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
 
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
 a:visited{
     text-decoration: none;
     color: inherit;
@@ -26,11 +31,11 @@ a:visited{
 }
 
 #busca{
-    margin-left: 10px;
+    margin-left: 200px;
     width: 500px;
-    height: 22px;
+    height: 35px;
     border: solid rgb(228, 228, 228) 1px;
-    border-radius: 15px;
+    border-radius: 25px;
 }
 
 #menu{
@@ -59,6 +64,16 @@ a:visited{
     transform: translateX(0%);
 }
 
+#sidebar li{
+    margin: 20px;
+}
+
+#sidebar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
 .tags{
     display: flex;
     justify-content: center;
@@ -72,7 +87,7 @@ a:visited{
     background-color: rgb(241, 241, 241);
     height: 30px;
     width: 70px;
-    margin-top: 20  px;
+    margin-top: 20px;
 }
 
 .tags button:active{
@@ -84,15 +99,15 @@ a:visited{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 100px;
+    gap: 80px;
     margin: auto;
     flex-wrap: wrap;
 }
 
 .videos p {
     background-color: rgb(199, 199, 199);
-    width: 200px;
-    height: 130px;
+    width: 300px;
+    height: 180px;
     display: flex;
     justify-content: center;
     align-items: center;
