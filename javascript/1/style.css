@@ -1,0 +1,24 @@
+.eventos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.eventos button{
+    width: 300px;
+    height: 50px;
+}
+
+#btn2{
+    border: 1px solid #000000;
+    border-radius: 50px;
+    background-color: #d4d4d4;
+}
+
+#btn2:active{
+    background-color: #efefef;
+    transition: 0.2s ease, transform 0.2s ease;
+}
